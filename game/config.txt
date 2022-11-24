@@ -1,0 +1,5 @@
+Game_name:异世界斗牌淫传;
+Game_key:gsex18;
+Title_img:2h1.jpg;
+Title_bgm:黯淡.mp3;
+Loading_img:2h1.jpg;

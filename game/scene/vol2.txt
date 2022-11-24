@@ -1,0 +1,6 @@
+changeBg:b2.jpg;
+changeFigure:none;
+changeFigure:none -left;
+changeFigure:011.png;
+setAnimation: enter-from-left -target=fig-center -next;
+:被推着走在悦神街道上，越发接近那些壮观的高塔。
